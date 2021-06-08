@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayaan-GuitarHost" alt="sujal-ops-cyber" /> </p>
 
-![Discord](https://cdn.discordapp.com/attachments/848155536809000970/849733878377218067/3401961.png)
+![Discord](https://discord.c99.nl/widget/theme-2/597822927198748686.png)
 
 <a href="https://discord.gg/9VNQSYkJZj">
 
