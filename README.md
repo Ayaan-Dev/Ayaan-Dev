@@ -14,3 +14,62 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hey There It's Ayaan, Owner Of [GuitarHost](https://guitarhost.tech) And [Alix](https://alixbot.xyz)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayaan-GuitarHost" alt="sujal-ops-cyber" /> </p>
+
+![Discord](https://cdn.discordapp.com/attachments/848155536809000970/849733878377218067/3401961.png)
+
+<a href="https://discord.gg/9VNQSYkJZj">
+
+  <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+
+</a>
+
+<a href="https://twitter.com/GuitarHost">
+
+  <img align="left" alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+
+</a>
+
+<a href="https://instagram.com/ayaan_atri108/">
+
+  <img align="left" alt="Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
+</a>
+
+<br />
+
+**Languages and Tools:** &nbsp;
+
+ <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+
+ 
+
+<p align="center">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaan-GuitarHost&theme=radical&hide_langs_below=1&layout=compact" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayaan-GuitarHost&show_icons=true&theme=radical&line_height=21" alt="github stats"/>
+
+ 
+
+ 
+
+  
+
+### Also Available In
+
+[Discord](https://discord.gg/9VNQSYkJZj)<br>
+
+[Twitter](https://twitter.com/GuitarHost)<br>
+
+[YouTube](https://youtube.com/channel/UCWq2JVhPGIQJOKr35rSVhiw)
