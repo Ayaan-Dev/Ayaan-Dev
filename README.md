@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey There It's Ayaan, Owner Of [GuitarHost](https://guitarhost.tech) And [Alix](https://alixbot.xyz)
+### Hey There It's Ayaan, Owner Of [NightHost](https://nighthost.tech) And [Alix](https://alixbot.xyz)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayaan-GuitarHost" alt="sujal-ops-cyber" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayaan-Dev" alt="sujal-ops-cyber" /> </p>
 
 ![Discord](https://discord.c99.nl/widget/theme-2/597822927198748686.png)
 
@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaan-GuitarHost&theme=radical&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaan-Dev&theme=radical&hide_langs_below=1&layout=compact" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayaan-GuitarHost&show_icons=true&theme=radical&line_height=21" alt="github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayaan-Dev&show_icons=true&theme=radical&line_height=21" alt="github stats"/>
 
  
 
