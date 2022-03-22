@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey There It's Ayaan, Owner Of [NightHost](https://nighthost.tech) And [Alix](https://alixbot.xyz)
+### Hey There It's Ayaan, Owner Of [Groot](https://grootbot.xyz)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayaan-Dev" alt="sujal-ops-cyber" /> </p>
 
-![Discord](https://discord.c99.nl/widget/theme-2/597822927198748686.png)
+![Discord](https://discord.c99.nl/widget/theme-2/601487810720956416.png)
 
 <a href="https://discord.gg/9VNQSYkJZj">
 
