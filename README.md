@@ -22,4 +22,4 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Ayaan-Dev&theme=radical&no-frame=false&no-bg=false&margin-w=4" >
 
 <h1>If You Want To Help Me:</h1>
-<a href="https://patreon.com/grootmusic/membership"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" ></a>
+<a href="https://patreon.com/grootmusic"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" ></a>
