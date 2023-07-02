@@ -16,7 +16,7 @@
 <h1>Stats:</h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaan-Dev&theme=radical&layout=compact" />
 <img src="https://github-readme-stats.vercel.app/api?username=Ayaan-Dev&show_icons=true&theme=radical" alt="github stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AADI0009&&theme=radical&hide_border=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayaan-Dev&&theme=radical&hide_border=false" />
 
 <h1>GitHub Trophies:</h1>
 <img src="https://github-profile-trophy.vercel.app/?username=Ayaan-Dev&theme=radical&no-frame=false&no-bg=false&margin-w=4" >
